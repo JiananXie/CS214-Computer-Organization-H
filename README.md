@@ -1,2 +1,2 @@
 # CS214-Computer-Organization-H
-lecture notes + assignments
+This repository will upload the lecture notes and assignments of CS214-Computer-Organization(H).
